@@ -170,7 +170,7 @@ break;
 }
 case 4;
 {
-professor prof=new kjsdbfh;
+professor prof=new professor();
 prof.getdata();
 prof.getprofessor();
 prpf.display();
